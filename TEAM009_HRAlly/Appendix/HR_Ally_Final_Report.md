@@ -3,7 +3,7 @@
 ## An AI-Powered Assistant for Employee HR Support
 
 **Team:** TEAM009 · **Industry / Function:** Human Resources – Employee Services and HR Operations
-**Team members:** Rashmi K G, Senthil Kumar P, Sharadhi Jain, Pitchai Muthu M, Rajat
+**Team members:** Rashmi K G, Senthil Kumar P, Sharadhi Jain, Pitchai Muthu M, Rajat Ranjan Verma
 
 ## 1. Recommendation
 
