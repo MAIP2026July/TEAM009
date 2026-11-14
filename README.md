@@ -4,13 +4,15 @@
 
 ## Team Members
 
-| # | Name | Student ID |
-| --- | --- | --- |
-| 1 | Rashmi K G | 2025MB26047 |
-| 2 | Senthil Kumar P | 2025MB26180 |
-| 3 | Sharadhi Jain | 2025MB26051 |
-| 4 | Pitchai Muthu M | 2025MB26187 |
-| 5 | Rajat Ranjan Verma | 2025MB26031 |
+Here are the team member details in the requested format:
+
+| # | Name | Student ID | GitHub ID | Email ID |
+| --- | --- | --- | --- | --- |
+| 1 | Rashmi K G | 2025MB26047 | rashu065 | 2025MB26047@wilp.bits-pilani.ac.in |
+| 2 | Senthil Kumar P | 2025MB26180 | DatainAdvisory | 2025MB26180@wilp.bits-pilani.ac.in |
+| 3 | Sharadhi Jain | 2025MB26051 | SharadhiJain | 2025MB26051@wilp.bits-pilani.ac.in |
+| 4 | Pitchai Muthu M | 2025MB26187 | pitchaimuthu321 | 2025mb26187@wilp.bits-pilani.ac.in |
+| 5 | Rajat Ranjan Verma | 2025MB26031 |  | 2025mb26031@wilp.bits-pilani.ac.in |
 
 ## Summary
 
