@@ -21,15 +21,15 @@ Roles follow deliverable ownership. Team members: Rashmi K G (2025MB26047), Sent
 Each member writes about 100–120 words covering: **main contributions** (what I produced, decided or tested); **use of AI tools** (tasks, and what I changed or rejected, see the AI Collaboration Log); **key learning** about AI product management; **teamwork** (how work was divided and disagreements resolved).
 
 **Rashmi K G:**
-
+Idea Proposal, prepared product strategy and roadmap document, coordinated to prepare PRD artifact, artifacts review, presentation.
 **Senthil Kumar P:**
-
+Document preparation on data model, Ethics, Governance and risks. Coordinated for Github upload.
 **Sharadhi Jain:**
-
+Prepared executive summary, UI/UX design document, user workflow, identified fallback mechanisms, documents review.
 **Pitchai Muthu M:**
 
 **Rajat:**
-
+Coordinated for Prototype creation, ppt preparation, user workflow.
 ## 3. Team declaration
 
 We confirm the contributions above are accurate and agreed by all members, and that AI use is fully disclosed in the AI Collaboration Log.
